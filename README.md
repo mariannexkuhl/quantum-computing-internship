@@ -1,6 +1,6 @@
 # Classical-Quantum Hybrid Portfolio Optimization using the Quantum Approximate Optimization Algorithm (QAOA)
 
-This project was completed during June-August of 2025 as part of my internship with PALO IT. Many thanks to PALO IT for this opportunity and their support, especially my supervisor @mparramont.
+This project was completed during June-August of 2025 as part of my internship with PALO IT. Many thanks to PALO IT for this opportunity and their support, especially my supervisor @mparramont and GitHub copilot.
 
 This project leverages both classical and quantum computing to solve a simple portfolio optimization problem. The problem involves selecting a subset of assets from a market to form a portfolio. The problem is formulated as Quadratic Unconstrained Binary Optimization problem, with assets either selected or unselected, with equal weighting for all selected assets in the final portfolio.
 
