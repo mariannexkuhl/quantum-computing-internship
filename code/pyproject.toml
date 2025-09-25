@@ -1,0 +1,22 @@
+[project]
+name = "portfolio-optimizer"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "lxml",
+    "numpy",
+    "pandas",
+    "qiskit>=0.45.0,<1.0.0",
+    "qiskit-algorithms>=0.3.1",
+    "qiskit-finance==0.4.1",
+    "qiskit-optimization==0.6.1",
+    "yfinance",
+]
+
+[dependency-groups]
+dev = [
+    "pytest>=8.4.1",
+    "pytest-benchmark>=5.1.0",
+]
